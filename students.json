@@ -1,0 +1,23 @@
+[
+  {
+    "roll":"1201",
+    "name":"Rahul Yadav",
+    "class":"12",
+    "test":"1st Assessment Test 2026",
+    "status":"Result Awaited"
+  },
+  {
+    "roll":"1202",
+    "name":"Anjali Yadav",
+    "class":"12",
+    "test":"1st Assessment Test 2026",
+    "status":"Result Awaited"
+  },
+  {
+    "roll":"1203",
+    "name":"Aman Singh",
+    "class":"12",
+    "test":"1st Assessment Test 2026",
+    "status":"Result Awaited"
+  }
+]
