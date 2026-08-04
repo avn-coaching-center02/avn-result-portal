@@ -1,6 +1,6 @@
 async function searchResult() {
 
-const roll=document.getElementById("roll").value.trim();
+coconst student = students.find(x => String(x["Roll No"]).trim() === roll);
 
 const output=document.getElementById("output");
 
